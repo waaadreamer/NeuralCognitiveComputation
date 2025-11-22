@@ -1,0 +1,7 @@
+torch
+torchvision
+pillow
+# Optional dataset downloader
+openneuro
+# Optional CLIP image encoder
+git+https://github.com/openai/CLIP.git
